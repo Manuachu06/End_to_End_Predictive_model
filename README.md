@@ -3,10 +3,6 @@ This Project will help to understand end to end machine learning steps.
 An End-to-End Machine Learning Model is a comprehensive system that contains all the stages of a machine learning project, from data collection and preprocessing to model development, deployment, and ongoing maintenance. I hope you liked this article on how to build an end-to-end Machine Learning model using Python.
 
 
-Sure! Here's a README file specifically for predictive modeling using linear regression.
-
----
-
 # Predictive Modeling Using Linear Regression
 
 ## Project Overview
@@ -74,14 +70,5 @@ pip install -r requirements.txt
 ## Results and Analysis
 - Visualizing actual vs. predicted values using scatter plots
 - Understanding residual errors and model performance
-
-## Contributors
-- [Your Name]
-- [Other Contributors]
-
-## License
-This project is licensed under [Specify License].
-
----
 
 Let me know if you'd like any modifications! 🚀
